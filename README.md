@@ -18,3 +18,7 @@ MongoDB : 4.4.6 Community
 MODEL url : https://storage.googleapis.com/tfhub-modules/google/universal-sentence-encoder/4.tar.gz
 
 MESSAGE_VECTOR field : dense vector 512 dims
+
+# CMP 3.0 로그 데이터 조회 API 추가 개발
+
+DENSE VECTOR 필드 내용 추가 조회
