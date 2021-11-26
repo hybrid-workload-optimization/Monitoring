@@ -13,4 +13,5 @@ MongoDB : 4.4.6 Community
 # Logstash Dense vector 플러그인 추가 개발 
 
 MODEL url : https://storage.googleapis.com/tfhub-modules/google/universal-sentence-encoder/4.tar.gz
+
 MESSAGE_VECTOR field : dense vector 512 dims
