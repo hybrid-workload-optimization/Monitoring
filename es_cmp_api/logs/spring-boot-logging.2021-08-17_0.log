@@ -1,0 +1,60 @@
+2021-08-17 15:38:28.881 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 9280 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:38:28.892 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:38:28.926 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:38:28.926 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:38:30.329 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:38:31.456 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:38:31.463 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.893 seconds (JVM running for 3.825)
+2021-08-17 15:40:39.228 [RMI TCP Connection(10)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-17 15:40:59.273 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 7772 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:40:59.275 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:40:59.314 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:40:59.314 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:41:00.469 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:41:01.534 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:41:01.541 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.531 seconds (JVM running for 3.508)
+2021-08-17 15:41:39.344 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-17 15:41:55.052 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 3648 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:41:55.054 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:41:55.113 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:41:55.114 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:41:56.224 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:41:57.321 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:41:57.328 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.637 seconds (JVM running for 4.369)
+2021-08-17 15:44:13.343 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 24324 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:44:13.354 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:44:13.385 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:44:13.385 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:44:14.406 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:44:15.517 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:44:15.524 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.487 seconds (JVM running for 3.516)
+2021-08-17 15:44:46.293 [RMI TCP Connection(9)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-17 15:44:58.622 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 32192 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:44:58.624 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:44:58.663 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:44:58.663 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:44:59.668 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:45:00.722 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:45:00.730 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.376 seconds (JVM running for 3.313)
+2021-08-17 15:45:05.963 [RMI TCP Connection(7)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
+2021-08-17 15:45:16.107 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 5684 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:45:16.110 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:45:16.172 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:45:16.172 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:45:17.360 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:45:18.612 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:45:18.622 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.89 seconds (JVM running for 4.07)
+2021-08-17 15:48:04.963 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 5728 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:48:04.965 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:48:05.006 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-08-17 15:48:05.006 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-08-17 15:48:05.918 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:48:07.132 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:48:07.140 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 2.453 seconds (JVM running for 3.429)
+2021-08-17 15:48:39.224 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Starting EsCmpApiApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 5728 (D:\STS4-Workspace\es_cmp_api\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\es_cmp_api)
+2021-08-17 15:48:39.224 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - No active profile set, falling back to default profiles: default
+2021-08-17 15:48:39.350 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2021-08-17 15:48:39.358 [restartedMain] INFO  o.s.b.w.e.netty.NettyWebServer - Netty started on port 8080
+2021-08-17 15:48:39.361 [restartedMain] INFO  com.sptek.es.EsCmpApiApplication - Started EsCmpApiApplication in 0.157 seconds (JVM running for 35.649)
+2021-08-17 15:48:39.362 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2021-08-17 17:34:01.619 [RMI TCP Connection(139)-127.0.0.1] INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
