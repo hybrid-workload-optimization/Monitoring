@@ -1,0 +1,69 @@
+2022-01-03 16:34:48.161 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - Starting KafkaBenchmarkApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 34220 (D:\STS4-Workspace\kafka_benchmark\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\kafka_benchmark)
+2022-01-03 16:34:48.167 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - No active profile set, falling back to default profiles: default
+2022-01-03 16:34:48.210 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-03 16:34:48.265 [restartedMain] WARN  o.s.c.a.AnnotationConfigApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.sptek.kafka.KafkaBenchmarkApplication]; nested exception is java.io.FileNotFoundException: D:\STS4-Workspace\kafka_benchmark\application.properties (지정된 파일을 찾을 수 없습니다)
+2022-01-03 16:34:48.289 [restartedMain] ERROR o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.sptek.kafka.KafkaBenchmarkApplication]; nested exception is java.io.FileNotFoundException: D:\STS4-Workspace\kafka_benchmark\application.properties (지정된 파일을 찾을 수 없습니다)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:434)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:338)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.sptek.kafka.KafkaBenchmarkApplication.main(KafkaBenchmarkApplication.java:25)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.io.FileNotFoundException: D:\STS4-Workspace\kafka_benchmark\application.properties (지정된 파일을 찾을 수 없습니다)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:90)
+	at sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:188)
+	at org.springframework.core.io.UrlResource.getInputStream(UrlResource.java:186)
+	at org.springframework.core.io.support.EncodedResource.getInputStream(EncodedResource.java:159)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:110)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.fillProperties(PropertiesLoaderUtils.java:81)
+	at org.springframework.core.io.support.PropertiesLoaderUtils.loadProperties(PropertiesLoaderUtils.java:67)
+	at org.springframework.core.io.support.ResourcePropertySource.<init>(ResourcePropertySource.java:67)
+	at org.springframework.core.io.support.DefaultPropertySourceFactory.createPropertySource(DefaultPropertySourceFactory.java:37)
+	at org.springframework.context.annotation.ConfigurationClassParser.processPropertySource(ConfigurationClassParser.java:463)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:280)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 17 common frames omitted
+2022-01-03 16:35:34.261 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - Starting KafkaBenchmarkApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 28876 (D:\STS4-Workspace\kafka_benchmark\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\kafka_benchmark)
+2022-01-03 16:35:34.265 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - No active profile set, falling back to default profiles: default
+2022-01-03 16:35:34.307 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - ==================================================
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool initialize.
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Name : Sptek Thread Pool
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Init Size : 100
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Max Size : 100
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Queue Capacity : 1
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool NODE IP : 0.0.0.0
+2022-01-03 16:35:34.759 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - ==================================================
+2022-01-03 16:38:29.980 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - Starting KafkaBenchmarkApplication using Java 1.8.0_111 on LAPTOP-EG6G9I10 with PID 26272 (D:\STS4-Workspace\kafka_benchmark\target\classes started by Sun-Kyu Park in D:\STS4-Workspace\kafka_benchmark)
+2022-01-03 16:38:29.984 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - No active profile set, falling back to default profiles: default
+2022-01-03 16:38:30.029 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - ==================================================
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool initialize.
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Name : Sptek Thread Pool
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Init Size : 100
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Max Size : 100
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool Queue Capacity : 1
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool NODE IP : 0.0.0.0
+2022-01-03 16:38:30.497 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - ==================================================
+2022-01-03 16:38:46.291 [restartedMain] INFO  c.s.k.common.ThreadPoolConfiguration - [Sptek] Threadpool instantiation.
+2022-01-03 16:38:46.574 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2022-01-03 16:38:46.590 [restartedMain] INFO  c.s.kafka.KafkaBenchmarkApplication - Started KafkaBenchmarkApplication in 16.952 seconds (JVM running for 18.105)
